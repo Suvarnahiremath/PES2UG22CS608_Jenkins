@@ -22,7 +22,7 @@ pipeline {
             steps {
                 script {
                     echo 'Deploying the application...'
-                    .
+                    
                 }
             }
         }
